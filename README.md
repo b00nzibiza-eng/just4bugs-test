@@ -8,8 +8,11 @@ Frühe Testversion – Feedback ist willkommen!
 - **Android:** [Just4Bugs_Android.apk](https://github.com/b00nzibiza-eng/just4bugs-test/releases/latest/download/Just4Bugs_Android.apk)
 - **Windows:** [Just4Bugs_Windows.zip](https://github.com/b00nzibiza-eng/just4bugs-test/releases/latest/download/Just4Bugs_Windows.zip)
 
-Das Spiel meldet sich im Hauptmenü mit einem grünen **„Update laden“**-Knopf, sobald es eine neue Version gibt.
-Die aktuelle Version steht unten rechts im Hauptmenü.
+**Updates kommen meist von allein:** Das Spiel lädt kleine Update-Pakete beim Start selbst herunter.
+Dann steht im Hauptmenü „UPDATE … NEU STARTEN“ (PC) bzw. „APP SCHLIESSEN“ (Handy) – einfach antippen
+bzw. die App einmal schließen und wieder öffnen, schon läuft die neue Version.
+Nur selten (größere Umbauten) zeigt das Spiel „UPDATE … LADEN“ – dann einmal die neue APK/ZIP laden.
+Die aktuelle Version steht unten rechts im Hauptmenü. **Ab Version 0.10** funktionieren die automatischen Updates.
 
 ## Android installieren
 
