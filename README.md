@@ -30,7 +30,7 @@ Die aktuelle Version steht unten rechts im Hauptmenü. **Wer eine Version vor 0.
 4. Updates einfach über die alte Version installieren – nichts deinstallieren.
 
 Steuerung: linker Stick laufen; rechter Stick leicht = zielen, weit (Knopf wird rot) = schießen; rote Taste = Spezial. Handy quer halten.
-Die **Zielhilfe** (Einstellungen: aus / leicht / stark) zieht deine Schüsse zum nächsten Insekt, wenn du ungefähr in seine Richtung zielst.
+Die **Zielhilfe** (Einstellungen: aus / leicht / mittel / hoch) zieht deine Schüsse zum nächsten Insekt, wenn du ungefähr in seine Richtung zielst.
 
 ### Windows
 
@@ -79,7 +79,7 @@ Your version is shown at the bottom right of the main menu. **If your version is
 4. Install updates over the old version – no need to uninstall.
 
 Controls: left stick moves; right stick pushed lightly = aim, pushed far (knob turns red) = shoot; red button = special. Hold the phone sideways.
-**Aim assist** (settings: off / light / strong) pulls your shots towards the nearest bug when you aim roughly in its direction.
+**Aim assist** (settings: off / low / medium / high) pulls your shots towards the nearest bug when you aim roughly in its direction.
 
 ### Windows
 
@@ -128,7 +128,7 @@ Tu versión aparece abajo a la derecha en el menú principal. **Si tienes una ve
 4. Instala las actualizaciones encima de la versión anterior, sin desinstalar.
 
 Controles: stick izquierdo para moverse; stick derecho un poco = apuntar, a fondo (el botón se pone rojo) = disparar; botón rojo = especial. Sujeta el móvil en horizontal.
-La **ayuda de apuntado** (ajustes: no / suave / fuerte) dirige tus disparos al insecto más cercano cuando apuntas más o menos hacia él.
+La **ayuda de apuntado** (ajustes: no / baja / media / alta) dirige tus disparos al insecto más cercano cuando apuntas más o menos hacia él.
 
 ### Windows
 
